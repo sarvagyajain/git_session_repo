@@ -1,1 +1,3 @@
-This is a temp text document.
+This is a temp text document. 
+
+Added this line in another git branch.
